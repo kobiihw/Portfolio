@@ -2,7 +2,7 @@ import React from 'react';
 import Nav from './Nav';
 import Portfolio from './Portfolio';
 import Contact from './Contact';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 import './App.css';
 import Me from './me.JPG';
  
